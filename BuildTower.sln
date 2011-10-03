@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildTower", "BuildTower.csproj", "{35FCB07D-7A9F-4A45-9E7C-6A773A728F6B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{35FCB07D-7A9F-4A45-9E7C-6A773A728F6B}.Debug.ActiveCfg = Debug|.NET
+		{35FCB07D-7A9F-4A45-9E7C-6A773A728F6B}.Debug.Build.0 = Debug|.NET
+		{35FCB07D-7A9F-4A45-9E7C-6A773A728F6B}.Release.ActiveCfg = Release|.NET
+		{35FCB07D-7A9F-4A45-9E7C-6A773A728F6B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
